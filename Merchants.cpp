@@ -12,7 +12,7 @@ Merchants::~Merchants(){//Destructor
 
 }
 
-void Merchants::set_selection(int user_merchant){//Accessor Funtion (basically a method)
+void Merchants::set_selection(int user_merchant){//Accessor Funtion
     the_merchant = user_merchant; 
 }
 
